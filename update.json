@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.3",
-    "notes":  "Selector de navegador recomendado y sesiÃ³n de Firefox en Chrome.",
-    "releaseUrl":  "https://github.com/collaide-labs/AI-Bridge/releases/tag/v1.2.3",
-    "setupUrl":  "https://github.com/collaide-labs/AI-Bridge/releases/tag/v1.2.3",
-    "sha256":  "4e9654b8fef0974488104b826992c1fddd2e42d7eee393a79d84d74d98c34419"
+    "version":  "1.2.4",
+    "notes":  "Aviso de actualizaciones y Â«Detectar modelosÂ» aunque el navegador estÃ© cerrado.",
+    "releaseUrl":  "https://github.com/collaide-labs/AI-Bridge/releases/tag/v1.2.4",
+    "setupUrl":  "https://github.com/collaide-labs/AI-Bridge/releases/tag/v1.2.4",
+    "sha256":  "ddf5b11d20e1334de59e860f1b0062a72617707feea41f5eee926735390d530c"
 }
