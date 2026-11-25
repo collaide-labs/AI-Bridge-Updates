@@ -1,6 +1,6 @@
 {
     "version":  "1.2.4",
-    "notes":  "Aviso de actualizaciones y Â«Detectar modelosÂ» aunque el navegador estÃ© cerrado.",
+    "notes":  "Aviso de actualizaciones y deteccion de modelos aunque el navegador este cerrado.",
     "releaseUrl":  "https://github.com/collaide-labs/AI-Bridge/releases/tag/v1.2.4",
     "setupUrl":  "https://github.com/collaide-labs/AI-Bridge/releases/tag/v1.2.4",
     "sha256":  "ddf5b11d20e1334de59e860f1b0062a72617707feea41f5eee926735390d530c"
